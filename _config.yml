@@ -1,0 +1,14 @@
+layout_spectrum: 0.8894863
+typography_spectrum: 0.3786017
+color:
+  saturation: 0.672043
+  brandStrength: 0.6973585
+  lightness: 0.5561529
+  rhythmicContrast: 0.1475507
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Barsikads
