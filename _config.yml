@@ -12,3 +12,5 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 name: Barsikads
+content_rating:
+  adult: false
